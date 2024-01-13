@@ -13,4 +13,5 @@ CSS: Stilizimi i faqes për një pamje tërheqëse dhe intuitivitet të përmir�
 JavaScript: Kërkesat API për të marrë dhe përpunuar informacionin e motit.
 
 Autori:Gent Maloku
+
 Email:malokugentt@gmail.com
