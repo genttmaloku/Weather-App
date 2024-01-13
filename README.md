@@ -9,7 +9,9 @@ Moti Me Gentin është një aplikacion i thjeshtë që ofron informacion rreth k
 Implementimi
 
 HTML: Struktura bazë e faqes së internetit dhe elementët e nevojshëm për përdoruesin.
+
 CSS: Stilizimi i faqes për një pamje tërheqëse dhe intuitivitet të përmirësuar.
+
 JavaScript: Kërkesat API për të marrë dhe përpunuar informacionin e motit.
 
 Autori:Gent Maloku
